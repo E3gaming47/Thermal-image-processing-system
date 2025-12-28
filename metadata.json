@@ -1,0 +1,6 @@
+
+{
+  "name": "Thermal Industrial Guard AI",
+  "description": "An AI-powered thermal monitoring system for industrial sites, featuring real-time 3D visualization of temperature data, automated HVAC energy optimization, and HSE fire suppression integration.",
+  "requestFramePermissions": []
+}
